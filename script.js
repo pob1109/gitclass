@@ -7,6 +7,6 @@ const today = "광복절";
 
 const pass = true;
 
-if (pass)[
+if (pass){
     console.log('hello')
-]
+}
